@@ -1,5 +1,6 @@
 # Wenxi Zhang's first CS193 Lab
 ## Welcome to GitHub Pages
+# My favourite things about Purdue CS193
 -nice TA
 -numerous tools about programming
 
