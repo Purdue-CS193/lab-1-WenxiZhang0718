@@ -1,3 +1,5 @@
+# Wenxi Zhang's first CS193 Lab
+# My favourite thing about Purdue CS193 is that we can learn a lot of tools about computer science.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
